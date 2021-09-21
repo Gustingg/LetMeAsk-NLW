@@ -41,7 +41,9 @@ O app estará disponível para testar pelo seu browser no endereço http://local
 ## 💡 Ideia do App e Layout
 
 Principal ideia do Letmeask é para os criadores de conteúdo possam criar salas de perguntas e respostas com seu público, sendo assim as perguntas serão respondidas ao vivo com o criador de conteúdo.
+
 Idealizador/Layout do App: [Rocketseat](https://rocketseat.com.br/) durante a Next Level Week #6.
+
 O Layout poder encontrado [aqui](https://www.figma.com/community/file/1009824839797878169/Letmeask), sendo necessário login para acessar o Figma.
 
 
