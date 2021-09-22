@@ -8,7 +8,7 @@ type RoomCodeProps = {
 
 export function RoomCode(props: RoomCodeProps){
     function copyRoomCodeToClipboard(){
-        navigator.clipboard.writeText('-Mdc3rI3NM8re-t9trqH');
+        navigator.clipboard.writeText(props.code);
     }
 
     return (
@@ -16,7 +16,7 @@ export function RoomCode(props: RoomCodeProps){
             <div>
                 <img src={copyImg} alt="Copy room code"/>
             </div>
-            <span>Sala -Mdc3rI3NM8re-t9trqH</span>
+            <span>Sala #{props.code}</span>
         </button>
     )
 }
